@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+num
+1
+0
+8
+cantidad
+1
+0
+4
+suma
+1
+0
+4
+1
+60
+'Programa que calcula el promedio de una lista de N numeros'
+4
+1
+42
+'Cuantos numeros vas a ingresar en total?'
+5
+1
+8
+cantidad
+8
+1
+1
+i
+1
+1
+1
+1
+8
+cantidad
+1
+1
+1
+4
+1
+13
+'Numero ' , i
+5
+1
+3
+num
+6
+1
+4
+suma
+10
+suma + num
+10
+6
+1
+4
+suma
+15
+suma / cantidad
+4
+1
+24
+'Su promedio es: ', suma
+1
